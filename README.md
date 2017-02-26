@@ -14,7 +14,7 @@ Create a new folder called "LiquidCrystal_I2C" under the folder named "libraries
 Create the folder "libraries" in case it does not exist yet. Place all the files in the "LiquidCrystal_I2C" folder.
 
 # Usage #
-To use the library in your own sketch, select it from *Sketch > Import Library*.
+- For more information visit <a href="https://hobbytronics.com.pk/connect-1602-i2c-lcd-with-esp8266-nodemcu-wemos/">blog post</a>
 
 -------------------------------------------------------------------------------------------------------------------
 This library is based on work done by DFROBOT (www.dfrobot.com).
