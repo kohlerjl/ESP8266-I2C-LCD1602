@@ -1,3 +1,12 @@
+/*
+       * 16x2 I2C LCD address scanner for ESP8266 based dev. boards
+       * Compatible with the Arduino IDE 1.6.6
+       
+       ahmed@hobbytronics.com.pk
+       www.hobbytronics.com.pk
+       https://blog.hobbytronics.com.pk
+*/
+
 #include <Wire.h>
  
  
