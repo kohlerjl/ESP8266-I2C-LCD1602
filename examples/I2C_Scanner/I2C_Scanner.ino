@@ -3,7 +3,7 @@
  
 void setup()
 {
-  Wire.begin(0,2); //sda=0, scl=2
+  Wire.begin(0,2); //sda=0 | D3, scl=2 | D4
  
   Serial.begin(9600);
   Serial.println("\nI2C Scanner");
