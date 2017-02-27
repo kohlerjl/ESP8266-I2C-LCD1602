@@ -3,7 +3,6 @@
        * Compatible with the Arduino IDE 1.6.6
        * A fork from https://github.com/agnunez/ESP8266-I2C-LCD1602
        
-       ahmed@hobbytronics.com.pk
        www.hobbytronics.com.pk
        https://blog.hobbytronics.com.pk
 */
